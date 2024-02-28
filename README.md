@@ -1,4 +1,3 @@
-# Optogenetic-Project
 # Optogenetic Lightbox for Axolotl Regeneration Study 
 
 ## Project Overview 
