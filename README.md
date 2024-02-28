@@ -13,8 +13,10 @@ This repository contains all the necessary documentation, design reports, instru
 - [Design Reports](#design-reports)
 - [Assembly Instructions](#assembly-instructions)
 - [CAD and Laser Cutting Files](#cad-and-laser-cutting-files)
-- [Usage Guidelines](#usage-guidelines) - [Contributing](#contributing)
-- [License](#license) - [Acknowledgments](#acknowledgments)
+- [Usage Guidelines](#usage-guidelines)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Design Reports 
 This section includes links to our detailed design reports that cover every phase of the project from conception to final design. These reports provide insights into our design process, challenges faced, and the solutions implemented. 
