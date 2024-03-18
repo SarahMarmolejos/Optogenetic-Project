@@ -36,8 +36,8 @@ Access the CAD models and laser cutting files required to replicate or modify th
 - [Link to CAD Files](#)
 - [Link to Laser Cutting Files](#)
 
-## Usage Guidelines Learn
-how to operate the Optogenetic Lightbox, including setting up the light conditions, placing the axolotls, and interpreting the results. This section is crucial for researchers intending to use the lightbox for their studies. 
+## Usage Guidelines
+Learn how to operate the Optogenetic Lightbox, including setting up the light conditions, placing the axolotls, and interpreting the results. This section is crucial for researchers intending to use the lightbox for their studies. 
 
 - [Link to Usage Guidelines](#)
 
@@ -47,12 +47,10 @@ We welcome contributions from the community to improve the design and functional
 - [Link to Contributing Guidelines](#)
   
 ## License 
-This project is licensed under the [MIT License](LICENSE.md) 
+This project is licensed under the [MIT License](https://opensource.org/license/mit) 
 - see the file for details.
 
 ## Acknowledgments 
 - Dr. Josh Currie for providing the research background and motivation for this project. 
 - Dr. Bonin for lending the illuminance sensor.
 -  Wake Forest University Department of Engineering for supporting this capstone project.
-- [Other Acknowledgments]
-
