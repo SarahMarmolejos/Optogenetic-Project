@@ -51,6 +51,7 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 - see the file for details.
 
 ## Acknowledgments 
-- Dr. Josh Currie for providing the research background and motivation for this project. 
-- Dr. Bonin for lending the illuminance sensor.
+- Dr. Josh Currie for providing the research background and motivation for this project.
+- Dr. Courtney Di Vittorio for serving as our capstone coach. 
+- Dr. Bonin for lending the illuminance sensor an.
 -  Wake Forest University Department of Engineering for supporting this capstone project.
