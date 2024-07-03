@@ -18,12 +18,10 @@ This repository contains all the necessary documentation, design reports, instru
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## Design Reports 
-This section includes links to our detailed design reports that cover every phase of the project from conception to final design. These reports provide insights into our design process, challenges faced, and the solutions implemented. 
+## Design Report 
+Below is our final detailed design report, which covers every phase of the project from conception to final design. These reports provide insights into our design process, challenges faced, and the solutions implemented. 
 
 - [Link to Design Report 1](#)
-- [Link to Design Report 2](#)
-- [Link to Design Report 3](#)
 
 ## Assembly Instructions 
 Find detailed instructions on how to assemble the Optogenetic Lightbox from the provided CAD files and components list. The instructions include step-by-step guidance and necessary precautions to ensure successful assembly and operation. 
